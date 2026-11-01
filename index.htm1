@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>التفكير الناقد والفكر الضال</title>
+<style>
+*{box-sizing:border-box}
+body{
+ margin:0;font-family:Tahoma,Arial;
+ background:#071525;color:white;
+}
+.slide{
+ display:none;min-height:100vh;padding:45px 8%;
+ align-items:center;justify-content:center;
+ flex-direction:column;text-align:center;
+}
+.slide.active{display:flex}
+.card{
+ background:#122b43;border:1px solid #b99b58;
+ border-radius:22px;padding:30px;
+ max-width:850px;width:100%;
+}
+h1{color:#e8c77c;font-size:35px}
+h2{color:#e8c77c;font-size:29px}
+p,li{font-size:21px;line-height:2}
+li{text-align:right}
+.gold{color:#e8c77c}
+button{
+ background:#d7b66e;color:#102033;
+ border:0;padding:13px 25px;border-radius:12px;
+ font-size:17px;font-weight:bold;margin:7px;
+ cursor:pointer;
+}
+button:hover{opacity:.85}
+.nav{margin-top:25px}
+.small{color:#b8c8d8;font-size:15px}
+.option{
+ display:block;width:100%;margin:10px 0;
+ background:#23415e;color:white;text-align:right;
+}
+#feedback{color:#e8c77c;font-size:19px}
+</style>
+</head>
+<body>
+
+<section class="slide active">
+<div class="card">
+<h1>التفكير الناقد والفكر الضال</h1>
+<h2>مادة التفكير الناقد</h2>
+<p>الصف الأول الثانوي</p>
+<p class="gold">الدرس التاسع</p>
+<hr>
+<p>إعداد الطلاب:</p>
+<p>
+إياد المطيري<br>
+ثنيان آل مقبول<br>
+محمد بركات<br>
+يوسف العماري<br>
+يوسف الزهراني
+</p>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>مقدمة الدرس</h1>
+<p>يُعد التفكير الناقد من أهم المهارات التي تساعد الإنسان على فهم ما يدور حوله، وتحليل الأفكار والمعلومات، والتمييز بين الصحيح والخاطئ.</p>
+<p>ومن خلاله يستطيع الفرد اتخاذ قرارات واعية وعدم الانسياق خلف الأفكار دون التحقق منها.</p>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>ما الفكر الضال؟</h1>
+<p>هو الفكر الذي يقوم على أفكار ومعتقدات منحرفة عن الحق والاعتدال، وقد يؤدي إلى التعصب ورفض الحوار والإضرار بالفرد والمجتمع.</p>
+<p class="gold">السؤال المهم: هل كل فكرة نسمعها صحيحة؟ بالطبع لا.</p>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>أسباب انتشار الأفكار الخاطئة</h1>
+<ul>
+<li>نشر المعلومات دون التأكد من صحتها.</li>
+<li>ضعف الوعي والتفكير والتحليل.</li>
+<li>التعصب للرأي وعدم تقبل الاختلاف.</li>
+<li>التأثر بالمصادر غير الموثوقة.</li>
+</ul>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>آثار الفكر الضال</h1>
+<ul>
+<li>نشر التعصب والكراهية.</li>
+<li>إضعاف ترابط المجتمع.</li>
+<li>التأثير السلبي على الشباب.</li>
+<li>نشر الشائعات والمعلومات المغلوطة.</li>
+</ul>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>دور التفكير الناقد</h1>
+<ul>
+<li>تحليل الأفكار قبل قبولها.</li>
+<li>البحث عن الأدلة والبراهين.</li>
+<li>التمييز بين الحقيقة والرأي.</li>
+<li>التأكد من موثوقية المصادر.</li>
+</ul>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>الحصانة الفكرية</h1>
+<p>هي امتلاك الوعي والقدرة على التمييز بين الأفكار الصحيحة والخاطئة، وعدم التأثر بالدعوات المضللة.</p>
+<p class="gold">العلم والوعي والحوار من أهم وسائل بناء الحصانة الفكرية.</p>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>مسؤولية الفرد والمجتمع</h1>
+<ul>
+<li>التحقق من الأخبار قبل نشرها.</li>
+<li>الرجوع إلى المصادر الموثوقة.</li>
+<li>احترام الآخرين وتقبل الحوار.</li>
+<li>نشر الوعي والتعاون لحماية المجتمع.</li>
+</ul>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>الخلاصة</h1>
+<p>التفكير الناقد يساعدنا على حماية عقولنا من التضليل، وفهم المعلومات بطريقة صحيحة، واتخاذ القرارات السليمة.</p>
+<h2>فكّر، حلّل، تحقّق، ثم احكم.</h2>
+<p class="gold">شكرًا لحسن استماعكم</p>
+</div>
+</section>
+
+<section class="slide">
+<div class="card">
+<h1>اختبر معلوماتك</h1>
+<p>أجب عن الأسئلة العشرة التالية</p>
+<div id="quiz"></div>
+<p id="feedback"></p>
+<button onclick="nextQ()">السؤال التالي</button>
+<p id="progress" class="small"></p>
+</div>
+</section>
+
+<div class="nav" style="text-align:center;position:fixed;bottom:8px;width:100%">
+<button onclick="move(-1)">السابق</button>
+<button onclick="move(1)">التالي</button>
+</div>
+
+<script>
+let current=0;
+let slides=document.querySelectorAll('.slide');
+function move(n){
+ slides[current].classList.remove('active');
+ current=(current+n+slides.length)%slides.length;
+ slides[current].classList.add('active');
+}
+let questions=[
+["ما الهدف من التفكير الناقد؟",["قبول كل المعلومات","تحليل المعلومات والتحقق منها","نشر الشائعات"],1],
+["ما المقصود بالفكر الضال؟",["الفكر المعتدل","الفكر القائم على التضليل والانحراف","التفكير العلمي"],1],
+["ماذا يجب أن نفعل قبل نشر خبر؟",["نشره مباشرة","تجاهله دائمًا","التحقق من صحته"],2],
+["من أسباب انتشار الأفكار الخاطئة؟",["ضعف الوعي","التحقق من المصادر","الحوار الهادئ"],0],
+["ما أثر التعصب؟",["زيادة التفاهم","رفض الحوار والاختلاف","نشر الوعي"],1],
+["كيف نحمي أنفسنا من التضليل؟",["اتباع الشائعات","التفكير والتحقق","تصديق كل ما نسمع"],1],
+["ما المقصود بالحصانة الفكرية؟",["الوعي والتمييز بين الأفكار","رفض التعلم","عدم الاستماع للآخرين"],0],
+["ما المصدر الأفضل للمعلومات؟",["الحسابات المجهولة","الشائعات","المصادر الموثوقة"],2],
+["ما دور الفرد في حماية المجتمع؟",["نشر الأخبار دون تحقق","نشر الوعي والتحقق من المعلومات","التعصب"],1],
+["ما العبارة الصحيحة؟",["أفكر وأحلل قبل أن أحكم","أقبل كل فكرة","أنشر كل خبر"],0]
+];
+let q=0,answered=false;
+function showQ(){
+ let x=questions[q];
+ document.getElementById('quiz').innerHTML=
+ '<h2>'+ (q+1)+'. '+x[0]+'</h2>'+
+ x[1].map((a,i)=>'<button class="option" onclick="answer('+i+')">'+a+'</button>').join('');
+ document.getElementById('feedback').innerText='';
+ document.getElementById('progress').innerText='السؤال '+(q+1)+' من 10';
+ answered=false;
+}
+function answer(i){
+ if(answered)return;
+ answered=true;
+ document.getElementById('feedback').innerText=
+ i===questions[q][2]?'إجابة صحيحة، أحسنت!':'إجابة غير صحيحة، حاول مراجعة الدرس.';
+}
+function nextQ(){
+ if(!answered)return;
+ q++;
+ if(q>=10){
+ document.getElementById('quiz').innerHTML='<h2>انتهى الاختبار!</h2><p>شكرًا لمشاركتكم.</p>';
+ document.getElementById('feedback').innerText='';
+ document.getElementById('progress').innerText='أكملت الأسئلة العشرة';
+ return;
+ }
+ showQ();
+}
+showQ();
+</script>
+</body>
+</html>
